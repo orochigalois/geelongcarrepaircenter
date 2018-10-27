@@ -1,0 +1,247 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Theme Galleries\n"
+"POT-Creation-Date: 2018-05-14 15:55+0100\n"
+"PO-Revision-Date: 2018-05-14 15:55+0100\n"
+"Last-Translator: \n"
+"Language-Team: QuanticaLabs\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__;_n;_x;_ex;_nx;esc_attr__;esc_attr_e;esc_attr_x;"
+"esc_html__;esc_html_e;esc_html_x;_n_noop;_nx_noop\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ql_galleries.php:23
+msgid "Permalink"
+msgstr ""
+
+#: ql_galleries.php:32
+msgid "Options saved!"
+msgstr ""
+
+#: ql_galleries.php:35 ql_galleries.php:54 ql_galleries.php:63
+#: ql_galleries.php:356
+msgid "Gallery"
+msgstr ""
+
+#: ql_galleries.php:36 ql_galleries.php:55 ql_galleries.php:64
+msgid "Galleries"
+msgstr ""
+
+#: ql_galleries.php:76
+msgid "Add New"
+msgstr ""
+
+#: ql_galleries.php:77
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: ql_galleries.php:78
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: ql_galleries.php:79
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: ql_galleries.php:80
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: ql_galleries.php:81
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: ql_galleries.php:82
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: ql_galleries.php:83
+#, php-format
+msgid "No %s found"
+msgstr ""
+
+#: ql_galleries.php:84
+#, php-format
+msgid "No %s found in Trash"
+msgstr ""
+
+#: ql_galleries.php:109
+msgid "Title"
+msgstr ""
+
+#: ql_galleries.php:110
+msgid "Categories"
+msgstr ""
+
+#: ql_galleries.php:111 ql_galleries.php:325
+msgid "Order"
+msgstr ""
+
+#: ql_galleries.php:112 ql_galleries.php:320
+msgid "Date"
+msgstr ""
+
+#: ql_galleries.php:156 ql_galleries.php:341
+msgid "All Galleries"
+msgstr ""
+
+#: ql_galleries.php:161 ql_galleries.php:380
+msgid "READ MORE"
+msgstr ""
+
+#: ql_galleries.php:273 ql_galleries.php:280
+msgid "All"
+msgstr ""
+
+#: ql_galleries.php:285
+msgid "Galleries list"
+msgstr ""
+
+#: ql_galleries.php:291
+msgid "Plugins"
+msgstr ""
+
+#: ql_galleries.php:296
+msgid "Items per page/Post count"
+msgstr ""
+
+#: ql_galleries.php:299
+msgid "Set -1 to display all."
+msgstr ""
+
+#: ql_galleries.php:304
+msgid "Display selected"
+msgstr ""
+
+#: ql_galleries.php:311
+msgid "Display from Category"
+msgstr ""
+
+#: ql_galleries.php:318
+msgid "Order by"
+msgstr ""
+
+#: ql_galleries.php:320
+msgid "Title, menu order"
+msgstr ""
+
+#: ql_galleries.php:320
+msgid "Menu order"
+msgstr ""
+
+#: ql_galleries.php:320
+msgid "Random"
+msgstr ""
+
+#: ql_galleries.php:327
+msgid "ascending"
+msgstr ""
+
+#: ql_galleries.php:327
+msgid "descending"
+msgstr ""
+
+#: ql_galleries.php:332
+msgid "Type"
+msgstr ""
+
+#: ql_galleries.php:334
+msgid "list"
+msgstr ""
+
+#: ql_galleries.php:334
+msgid "isotope"
+msgstr ""
+
+#: ql_galleries.php:339
+msgid "All filter label"
+msgstr ""
+
+#: ql_galleries.php:347
+msgid "On click action"
+msgstr ""
+
+#: ql_galleries.php:349
+msgid "Single gallery page"
+msgstr ""
+
+#: ql_galleries.php:349
+msgid "Lightbox image preview"
+msgstr ""
+
+#: ql_galleries.php:354
+msgid "Lightbox type"
+msgstr ""
+
+#: ql_galleries.php:356
+msgid "Single previews"
+msgstr ""
+
+#: ql_galleries.php:362
+msgid "Headers"
+msgstr ""
+
+#: ql_galleries.php:364 ql_galleries.php:372
+msgid "Yes"
+msgstr ""
+
+#: ql_galleries.php:364 ql_galleries.php:372
+msgid "No"
+msgstr ""
+
+#: ql_galleries.php:370
+msgid "Read more button"
+msgstr ""
+
+#: ql_galleries.php:378
+msgid "Read more button label"
+msgstr ""
+
+#: ql_galleries.php:386
+msgid "Top margin"
+msgstr ""
+
+#: ql_galleries.php:388
+msgid "None"
+msgstr ""
+
+#: ql_galleries.php:388
+msgid "Page (small)"
+msgstr ""
+
+#: ql_galleries.php:388
+msgid "Section (large)"
+msgstr ""
+
+#: admin/admin-page-permalink.php:2
+msgid "Permalink settings"
+msgstr ""
+
+#: admin/admin-page-permalink.php:23
+msgid "Slug (permalink)"
+msgstr ""
+
+#: admin/admin-page-permalink.php:33
+msgid "Gallery label singular"
+msgstr ""
+
+#: admin/admin-page-permalink.php:43
+msgid "Gallery label plural"
+msgstr ""
+
+#: admin/admin-page-permalink.php:52
+msgid "Save Options"
+msgstr ""
