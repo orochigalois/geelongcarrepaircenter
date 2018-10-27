@@ -66,14 +66,8 @@
 					<div class="header clearfix">
 						<div class="logo vertical-align-cell">
 							<h1><a href="<?php echo esc_url(get_home_url()); ?>" title="<?php esc_attr(bloginfo("name")); ?>">
-							<?php if($theme_options["logo_url"]!=""): ?>
-							<img src="<?php echo esc_url($theme_options["logo_url"]); ?>" alt="logo">
-							<?php endif; ?>
-							<?php if($theme_options["logo_text"]!=""): ?>
-							<?php echo $theme_options["logo_text"]; ?>
-							<?php 
-							endif;
-							?>
+							<img src="<?= get_stylesheet_directory_uri().'/images/GeelongCarRepair.png'; ?>" alt="logo">
+							
 							</a></h1>
 						</div>
 						<?php
