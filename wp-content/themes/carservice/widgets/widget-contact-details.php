@@ -41,16 +41,7 @@ class cs_contact_details_widget extends WP_Widget
 		if(!$arrayEmpty):
 		?>
 		<ul class="social-icons gray margin-top-26 clearfix">
-			<?php
-			for($i=0; $i<count($icon_type); $i++)
-			{
-				if($icon_type[$i]!=""):
-			?>
-			<li><a<?php echo ($icon_target[$i]=="new_window" ? " target='_blank'" : ""); ?> href="<?php echo esc_url($icon_value[$i]);?>" class="social-<?php echo esc_attr($icon_type[$i]);?>"></a></li>
-			<?php
-				endif;
-			}
-			?>
+			<li><a target="_blank" href="https://www.facebook.com/gcrcgeelong/" class="social-facebook"></a></li>
 		</ul>
 		<?php
 		endif;
